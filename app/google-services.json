@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051172098976",
+    "project_id": "appfirebase-cf710",
+    "storage_bucket": "appfirebase-cf710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051172098976:android:4d07c7f592358730288ac5",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSAcM-SgbBabRjdN7-hfGpjn5EE2rAnXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
